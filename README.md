@@ -17,5 +17,5 @@ Backend asíncrono y altamente resiliente desarrollado en FastAPI, diseñado par
 ## Instalación y Ejecución Local
 1. Clona el repositorio:
    ```bash
-   git clone [https://github.com/tu-usuario/voice_agent_core.git](https://github.com/tu-usuario/voice_agent_core.git)
+   git clone https://github.com/Reegan-bug/voice_agent_core.git
    cd voice_agent_core
